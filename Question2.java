@@ -4,7 +4,8 @@ public class Question2 {
 	
 	public static void main(String args []) {
 
-		/*            */
+		/*This porgram is intended to search for a valid email
+		adress. I was not able to complete this program.*/
 
 		Scanner input = new Scanner (System.in);
 
