@@ -2,7 +2,7 @@ public class Question47 {
 	
 	public static void main(String args []) {
 
-	/*            */
+	/*This program uses a loop to multiply each integer between 3-7.*/
 
 		System.out.println("I'm going to be multiplying all integers between 3-7.");
 

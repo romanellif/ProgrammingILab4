@@ -1,10 +1,8 @@
-
-
 public class Question46 {
 	
 	public static void main(String args []) {
 
-	/*            */
+	/*This program uses a loop to add all integers between 10-20.*/
 
 		System.out.println("I'm going to add all integers between 10-20.");
 

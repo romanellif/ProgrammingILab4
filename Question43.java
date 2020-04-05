@@ -6,7 +6,9 @@ public class Question43 {
 	
 	public static void main(String args []) {
 
-	/*            */
+	/*This program is intended to ask the user for an input bigger than 10
+	and output the squareroot of that number, until the number becomes so small
+	it can't be squarerooted anymore. Unfortunately I wasn't able top achieve my final goal.*/
 
 		Scanner input = new Scanner (System.in);
 
